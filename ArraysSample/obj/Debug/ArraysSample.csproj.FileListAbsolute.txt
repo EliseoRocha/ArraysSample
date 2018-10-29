@@ -1,0 +1,7 @@
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ArraysSample\ArraysSample\bin\Debug\ArraysSample.exe.config
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ArraysSample\ArraysSample\bin\Debug\ArraysSample.exe
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ArraysSample\ArraysSample\bin\Debug\ArraysSample.pdb
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ArraysSample\ArraysSample\obj\Debug\ArraysSample.csprojAssemblyReference.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ArraysSample\ArraysSample\obj\Debug\ArraysSample.csproj.CoreCompileInputs.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ArraysSample\ArraysSample\obj\Debug\ArraysSample.exe
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ArraysSample\ArraysSample\obj\Debug\ArraysSample.pdb
